@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-02T18:39:26 IST" name="Default suite" finished-at="2022-12-02T18:40:16 IST" duration-ms="50275">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T18:39:26 IST" name="Default test" finished-at="2022-12-02T18:40:16 IST" duration-ms="50275">
+      <class name="com.trello.qspiders.createanddeleteboard.EndToEndScenario">
+        <test-method is-config="true" signature="configBeforeClass()[pri:0, instance:com.trello.qspiders.createanddeleteboard.EndToEndScenario@3bb9a3ff]" started-at="2022-12-02T18:39:26 IST" name="configBeforeClass" finished-at="2022-12-02T18:39:37 IST" duration-ms="11459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeClass -->
+        <test-method is-config="true" signature="cofigBeforeMethod()[pri:0, instance:com.trello.qspiders.createanddeleteboard.EndToEndScenario@3bb9a3ff]" started-at="2022-12-02T18:39:38 IST" name="cofigBeforeMethod" finished-at="2022-12-02T18:39:45 IST" duration-ms="7053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBeforeMethod -->
+        <test-method signature="createAndDeleteKranthi_01()[pri:0, instance:com.trello.qspiders.createanddeleteboard.EndToEndScenario@3bb9a3ff]" started-at="2022-12-02T18:39:45 IST" name="createAndDeleteKranthi_01" finished-at="2022-12-02T18:40:04 IST" duration-ms="19414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAndDeleteKranthi_01 -->
+        <test-method is-config="true" signature="configAfterMethod()[pri:0, instance:com.trello.qspiders.createanddeleteboard.EndToEndScenario@3bb9a3ff]" started-at="2022-12-02T18:40:04 IST" name="configAfterMethod" finished-at="2022-12-02T18:40:13 IST" duration-ms="9197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMethod -->
+        <test-method is-config="true" signature="cofigAfterClass()[pri:0, instance:com.trello.qspiders.createanddeleteboard.EndToEndScenario@3bb9a3ff]" started-at="2022-12-02T18:40:13 IST" name="cofigAfterClass" finished-at="2022-12-02T18:40:16 IST" duration-ms="3068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigAfterClass -->
+      </class> <!-- com.trello.qspiders.createanddeleteboard.EndToEndScenario -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
